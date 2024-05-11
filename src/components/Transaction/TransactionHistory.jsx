@@ -1,4 +1,4 @@
-import styles from './Transaction.module.css'
+import styles from "./Transaction.module.css";
 
 const TransactionHistory = ({ items }) => {
   return (
@@ -24,4 +24,4 @@ const TransactionHistory = ({ items }) => {
   );
 };
 
-export default TransactionHistory
+export default TransactionHistory;
